@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<main>
+    <leftMain>
+        <width>
+            <widthValue>500</widthValue>
+            <widthUnit>px</widthUnit>
+        </width>
+        <height>
+            <heightValue>800</heightValue>
+            <heightUnit>px</heightUnit>
+        </height>
+        <contents>
+            <fontFamily>Roboto,system-ui,Hiragino Kaku Gothic ProN,sans-serif</fontFamily>
+            <title>
+                <text>履歴書</text>
+                <fontSize>40</fontSize>
+                <fontSizeUnit>px</fontSizeUnit>
+            </title>
+        </contents>
+    </leftMain>
+    <rightMain>
+        <width>
+            <widthValue>300</widthValue>
+            <widthUnit>px</widthUnit>
+        </width>
+        <height>
+            <heightValue>800</heightValue>
+            <heightUnit>px</heightUnit>
+        </height>
+    </rightMain>
+</main>
