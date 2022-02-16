@@ -16,11 +16,22 @@
                 <fontSize>40</fontSize>
                 <fontSizeUnit>px</fontSizeUnit>
             </title>
+            <updatedate>
+                <year>年</year>
+                <month>月</month>
+                <day>日</day>
+                <current>現在</current>
+            </updatedate>
+            <horizoneLine01>
+                <lineWidth>2</lineWidth>
+                <widthValue>300</widthValue>
+                <widthUnit>px</widthUnit>
+            </horizoneLine01>
         </contents>
     </leftMain>
     <rightMain>
         <width>
-            <widthValue>300</widthValue>
+            <widthValue>500</widthValue>
             <widthUnit>px</widthUnit>
         </width>
         <height>
